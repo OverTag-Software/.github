@@ -1,5 +1,6 @@
 
-* See our [Open Source projects]([https://opensource.microsoft.com/projects/](https://github.com/orgs/OverTag-Software/projects)).
+* See our [Open Source projects](https://github.com/orgs/OverTag-Software/projects).
+
 
 ----
 
