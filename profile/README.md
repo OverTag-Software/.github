@@ -1,6 +1,6 @@
 # Project discontinued!
 #  # Due to internal problems, the project was halved:
-* ZELFLOR studio: https://discord.gg/mT8jQkqWgE
+* ZELFLOR studio (overtag studio 2): https://discord.gg/mT8jQkqWgE
 * Chardinally studio: https://discord.gg/KJYrn9qDnH
 
 ** It's a fork on both sides. Nothing more to add.**
