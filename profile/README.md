@@ -2,7 +2,10 @@
 #  # Due to internal problems, the project was halved:
 * ZELFLOR studio: https://discord.gg/mT8jQkqWgE
 * Chardinally studio: https://discord.gg/KJYrn9qDnH
+
 ** It's a fork on both sides. Nothing more to add.**
+
+----
 ![Overtag](https://github.com/OverTag-Software/.github/blob/main/profile/Frame%20511.png)
 
 
